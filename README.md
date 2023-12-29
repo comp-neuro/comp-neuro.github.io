@@ -1,2 +1,2 @@
 # comp-neuro.github.io
-Computational Neuroscience Laboratory
+Computational Neuroscience Laboratory at Monash
