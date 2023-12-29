@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{resources.html}, showsource
+= Resources
+
+== Basics of MRI
+
+These [https://www.youtube.com/playlist?list=PLD14D78BC61685BD7 YouTube] videos from Paul Callaghan are great!
+
+== Statistical Inference and Dynamical Systems
+
+. Cristopher Bishop book on [https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/ Pattern Recognition and Machine Learning] is a great place to start and it is free to download.
+. Steven Strogatz book on [http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering Nonlinear Dynamics and Chaos] provides a very good introduction to those uninitiated on the topic; it is not a free download though. But he has his lectures on [https://www.youtube.com/watch?v=ycJEoqmQvwg&list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V YouTube].
+. This [https://ieeexplore.ieee.org/abstract/document/8588399 review paper] on variational inference is a must read for anyone interested in the topic. It has several references which can be really handy to build basic concepts and then go towards more advanced topics.
+. [https://ueapsylabs.co.uk/sites/wpenny/ Will Penny's] course slides on [https://ueapsylabs.co.uk/sites/wpenny/bdb/contents.htm Bayesian Inference and Dynamical Systems] are one of the best if you are to go towards Dynamic Causal Modelling. All of his lecture slides, available on his website, are worth going through.
+. [http://www.stat.cmu.edu/~cshalizi/ Cosma Shalizi]’s [http://bactra.org/notebooks/ notebooks] have so much of great stuff packed in them. Bookmark it!
+. For lifelong learning and insights, you cannot go wrong with Richard Feyman’s [https://www.feynmanlectures.caltech.edu/ lectures] on physics and you can also watch the master delivering them [https://www.youtube.com/watch?time_continue=2&v=j3mhkYbznBk here].
+
+== Statistical Parametric Mapping
+
+. SPM [https://www.fil.ion.ucl.ac.uk/spm/course/ course website] has powerpoint slides from previous year courses which are very useful to go through. It also lists video recordings of course material (end of the page) which may be especially handy
+. [https://www.fil.ion.ucl.ac.uk/mfd_archive/2018/index.html Methods for Dummies]: This is an introductory course which runs at FIL, for those starting afresh in neuroimaging
+. SPM [https://en.wikibooks.org/wiki/SPM wikipages] provide information on various topics in SPM; it is maintained by international SPM community
+. SPM [https://www.fil.ion.ucl.ac.uk/spm/doc/intro/ book]. The latest version (3rd Edition) is for purchase but you can find earlier editions free as pdf.
+. SPM [https://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf manual] is always handy, isn’t it?
+. SPM [https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=spm email list] archives are an enormous resource, hardly anything not being asked there!
+
+== Dynamic Causal Modelling
+
+. There are several introductory, non-mathematical papers, see [https://www.sciencedirect.com/science/article/pii/S105381191300760X here] and [https://www.sciencedirect.com/science/article/pii/S1053811909011999 here] and a gentle introduction to [https://onlinelibrary.wiley.com/doi/full/10.1111/j.0021-8782.2004.00359.x systems theory] as applied to functional neuroimaging.
+. The beginnings in 2003: [https://www.sciencedirect.com/science/article/pii/S1053811903002027 DCM for functional MRI]
+. Stefan Kiebel’s [https://link.springer.com/article/10.1007/s11571-008-9038-0 review] paper on DCM extensions to EEG and MEG
+. The first paper that introduced [https://www.sciencedirect.com/science/article/pii/S1053811913012135 DCM for resting state fMRI] i.e. the spectral DCM
+. We [https://www.sciencedirect.com/science/article/pii/S1053811917301568 revisited] DCM recently.
+
+== Active Inference and Free Energy Principle
+Note: I am not linking early formulations of FEP as they are outdated.
+
+. Start with a standard text for e.g. Rich Sutton’s [http://incompleteideas.net/book/the-book.html Introduction to Reinforcement Learning], to get a handle on [http://incompleteideas.net/book/the-book.html Markov Decision Processes]. David Silver’s [https://www.davidsilver.uk/teaching/ lecture notes] are also very useful.
+. This is a (very) long [https://www.mitpressjournals.org/doi/full/10.1162/NETN_a_00018 paper] that gets to the heart of active inference and this [https://www.mitpressjournals.org/doi/10.1162/NECO_a_00912 paper] that cast it as a ‘process theory’.
+. This [https://arxiv.org/abs/1906.10184 monograph] is the most comprehensive treatment of the free energy principle to date.
+. Thomas Parr [https://tejparr.github.io webpage] has a lot of useful resources.
+. This [https://pymdp-rtd.readthedocs.io/en/latest/notebooks/active_inference_from_scratch.html python package] and accompanying [https://arxiv.org/abs/2201.03904 paper] are really great to get started with building your acive inference agents.

@@ -1,0 +1,64 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Computational & Systems Neuroscience Laboratory
+
+~~~
+{}{img_left}{RAZI.JPG}{alt text}{170}{200}{IMGLINKTARGET}
+
+Adeel Razi, PhD \n
+Associate Professor & NHMRC Investigator (Emerging Leadership) \n
+CIFAR Azrieli Global Scholar, [https://cifar.ca/research-programs/brain-mind-consciousness/ Brain, Mind & Consciousness] program \n
+[https://www.monash.edu/turner-institute Turner Institute for Brain and Mental Health] \n
+[http://www.monash.edu/ Monash University] \n
+
+Contact details:
+[https://www.monash.edu/researchinfrastructure/mbi/home Monash Biomedical Imaging], Room 116, 770 Blackburn Road \n
+Clayton 3800, Australia \n
+E-mail: /adeel.razi/ \[@\] monash \[DOT\] edu \n
+
+[https://scholar.google.com/citations?user=VG3onZwAAAAJ&hl=en Google Scholar] --- [https://www.researchgate.net/profile/Adeel_Razi Researchgate] --- [https://www.linkedin.com/in/adeelrazi/ LinkedIn] --- [https://twitter.com/adeelrazi Twitter] \n
+~~~
+
+== Lab's Research
+~~
+
+Our lab’s research vision is to perform cross-disciplinary research combining engineering, physics, and machine-learning approaches to answer questions that are motivated by and grounded in neurobiology. This will enable us to go beyond the traditional boundaries in order to understand how the brain implements cognition.
+
+Our research program’s priority areas include:
+
+- development of multi-modal (e.g., functional MRI, diffusion MRI, EEG) and multi-scale Bayesian methods to characterise brain network dynamics and how these dynamics reorganise with different brain pathologies;
+- development of neuroscience-inspired artificial intelligence schemes to understand how brain performs reasoning, learning and planning;
+- use of classical psychedelics (e.g. LSD and Psilocybin) in combination with computational modelling to understand neural mechanisms underlying altered states of consciousness.
+
+~~~~
+
+== News
+
+~~~~
+- 07\/2022: Adeel has been selected to participate in the New York Academy of Sciences and Japan Agency for Medical Research and Development's /[https://www.nyas.org/landing/the-interstellar-initiative-aligning-young-stars-of-science-to-tackle-the-world-s-most-critical-medical-challenges/?tab=overview Interstellar Initiative]/.
+- 07/2022: Adeel has joined the Editorial Board of [https://www.nature.com/srep/ Scientific Reports].
+- 03/2022: [https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114 OHBM 2022] Educational Course (full day) on ``Generative modelling of brain dynamics: From principles to applications" is being organized by Adeel together with [https://users.ugent.be/~dmarinaz/ Daniele Marinazzo], [https://www.upf.edu/web/cns Gustavo Deco], [https://ins-amu.fr/tng Victor Jirsa], [https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/C2NP Marta Garrido], [https://profiles.ucsf.edu/ashish.raj Ashish Raj], [http://dynamic-brains.com/ Richard Rosch], [https://scholar.google.de/citations?user=hCsHHHkAAAAJ&hl=en Jil Meier] and [https://sites.google.com/view/katharina-glomb/home Katharina Glomb] on 19 June, 2022 in Glasgow, Scotland. Stay tuned for more information!
+- 02/2022: CIFAR\/Jacobs Workshop on [https://www.longitudinaldataanalysis.com/ "Causal Inference from Longitudinal Data"] (Online), which Adeel is co-organising, is happening from 29th March to 1st April, 2022. Please register [https://www.longitudinaldataanalysis.com/registration here].
+- 01/2022: Adeel is a lead Guest Editor for NeuroImage Special Issue on "[https://www.journals.elsevier.com/neuroimage/call-for-papers/call-for-papers-for-special-issue-on-generative-modelling-of-brain-dynamics-in-health-and-disease Generative modelling of brain dynamics in health and disease]" together with [https://cognemo.com/post/people/ Andreea Diaconescu], [https://scholar.google.com/citations?hl=en&user=Bi3cswkAAAAJ Pamela K. Douglas] and [https://sng-newy.github.io/people.html Michael Breakspear]. The deadline for submission is 30 Sep 2022.
+- 11/2021: We organized the third edition of the [https://www.eventbrite.com/e/workshop-maths-in-the-brain-tickets-163441107753 "Maths in the Brain"] workshop which was Victoria-wide this year. There were more than 90 participants joining for an in-person meeeting. 
+- 09/2021: We have been awarded CIFAR Catalyst grant for the project "Towards mechanistic understanding of artificial and biological neural computation of conscious learning" with Adeel as the lead investigator, together with [https://www.anilseth.com/ Anil Seth], [https://mila.quebec/en/person/blake-richards/ Blake Richards], [https://yoshuabengio.org/ Yoshua Bengio], [https://www.fil.ion.ucl.ac.uk/~karl/ Karl Friston], and our industrial partner [https://www.cclabs.ai/ CorticalLabs].  
+- 08/2021: Adeel is invited to the [https://en.wlaforum.com/ 2021 World Laureates Forum] to particiapte as a young scientist, 30th Oct - 3rd Nov 2021. He will be speaking, and taking part in a panel discussion, in a session with [https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/ May-Britt Moser] (Nobel Prize, 2014), [https://en.wikipedia.org/wiki/John_Hardy_(geneticist) John Hardy] (Breakthrough Prize, 2016), and [https://en.wikipedia.org/wiki/Jean-Pierre_Changeux Jean-Pierre Changeux] (Wolf Prize, 1982) among others.  
+- 07/2021: Adeel with collaborators, [https://koumurayama.com/ Kou Murayama], [https://juliamoeller.wordpress.com/ Julia Moeller], [https://baobaofzhang.github.io/ Baobao Zhang], [https://www.developmentalneuroimaginglab.ca/ Catherine Lebel] and [https://sites.uci.edu/dhbailey/ Drew Bailey], has received seed funding from [https://cifar.ca/ CIFAR] and [https://jacobsfoundation.org/en/ Jacobs Foundation] to hold a series of workshops on longitudinal data analysis across disciplines. Watch this space! 
+- 05/2021: Adeel is selected as the [https://cifar.ca/cifar-azrieli-global-scholars/ CIFAR Azrieli Global Scholar] in the [https://cifar.ca/research-programs/brain-mind-consciousness/ Brain, Mind & Consciousness] program (co-directors: Anil Seth and Adrian Owen) and interacting with [https://cifar.ca/research-programs/learning-in-machines-brains/ Learning in Machines and Brains] program (co-directors: Yoshua Bengio and Yann LeCun). 
+- 04/2021: We have new PhD position(s) vancant. Deadline: 15 June, 2021. Apply [https://careers.pageuppeople.com/513/cw/en/job/615267/phd-scholarship-computational-systems-neuroscience-laboratory here]
+- 05/2020: Adeel is awarded 5 years [https://www.nhmrc.gov.au/funding/find-funding/investigator-grants-2021-funding-commencing-2022 NHMRC Investigator Fellowship] (Emerging Leadership). He will start his Fellowship in January 2021.\n
+- 02/2020: Devon’s abstract is selected for “Merit Abstract Award” for presentation at [https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3958 OHBM 2020]. There were only 12 such awards chosen from > 2300 submissions. Congratulations Devon!\n
+- 12/2019: Adeel is awarded an Australian Research Council’s ‘Discovery Project’ grant “Multiscale and multimodal modelling of brain dynamics” together with [https://findanexpert.unimelb.edu.au/profile/24599-andrew-zalesky Andrew Zalesky] and [https://www.fil.ion.ucl.ac.uk/~karl/ Karl Friston]. We’re hiring a Postdoctoral Fellow and PhD students so get in touch!\n
+- 11/2019: Adeel will give an invited talk at the [https://medicine.yale.edu/mrrc/home/seminars/workshop/ 6th Whistler Scientific Workshop on Brain Functional Organization, Connectivity and Behaviour], at Whistler, British Columbia, Canada on 1-4 March 2020.\n
+- 11/2019: Sean Ng, who is an Honours student in our lab, was awarded third prize for his presentation during [https://www.sobrnetwork.org/ 2019 SOBR symposium]. He was the only Honours student presenting in the competition. Congrats Sean, hurray!\n
+- 06/2019: Adeel is elected as the Treasurer-Elect of the [https://ohbmaustralia.wordpress.com/ OHBM Australian Chapter].\n
+- 05/2019: Adeel will be giving a talk to the [https://researcher.watson.ibm.com/researcher/view_group.php?id=6768 Brain-Inspired Computing Research Group] at [https://research.ibm.com/labs/australia/ IBM Research Australia] on 16th May.\n
+- 04/2019: Adeel will be speaking at the [https://www.meetup.com/en-AU/Disruptors-In-Tech-Melb/ \#DisruptorsInTech Melbourne] event on [https://www.eventbrite.com.au/e/ai-in-healthcare-disruptorsintech-melbourne-tickets-59209552365 AI in Healthcare], which is sponsored by Deloitte Australia, on Tuesday 16 April.\n
+- 03/2019: Adeel will give an invited talk at the workshop [https://www.cnsorg.org/cns-2019-workshops “Graph modelling of macroscopic brain activity”] as part of the [https://www.cnsorg.org/cns-2019 CNS*2019] in Barcelona in July 2019.\n
+- 03/2019: Adeel is invited as one of the mentors for [https://www.ohbmtrainees.com/ OHBM Student & Postdoc SIG] event [https://www.ohbmtrainees.com/annual-symposium-2019 “Lunch with Mentors”] during OHBM 2019 in Rome in June 2019.\n
+- 03/2019: Our [https://www.pnas.org/content/116/7/2743 PNAS] paper with Katrin Preller on effective connectivity changes in LSD was covered by [https://www.theage.com.au/national/the-acid-test-here-s-what-lsd-does-to-your-brain-20190329-p518te.html The Age].\n
+- 01/2019: Adeel has started tenure as the (founding) member of the newly constituted Education Committee of the [https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=1 Organization of Human Brain Mapping].\n
+- 06/2018: Our [https://www.sciencedirect.com/science/article/pii/S1053811917309606 paper] received an ‘‘Honourable Mention” for the Best Paper of Year Award from [https://www.journals.elsevier.com/neuroimage/ Neuroimage] at OHBM 2018 in Singapore. Neuroimage receives more than 3000 papers every year with an acceptance rate of only 10-15%.\n
+- 05/2018: Adeel will be lecturing at the [http://connectome.org.au/ Australian Connectomics School], 30 May – 01 June 2018, in Melbourne, Australia.\n
+- 02/2018: Adeel will give an invited talk at the [http://restingstate.com/2018/ 6th Resting State and Brain Connectivity Conference], 26-28 Sep 2018, in Montreal, Canada.\n
+- Adeel’s [http://www.adeelrazi.org/SpectralDCM_Razi_SPMCourseMay2017.pdf slides] from the SPM short course of May 2017 on DCM for resting state fMRI.\n
+~~~~
