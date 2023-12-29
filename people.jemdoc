@@ -1,0 +1,401 @@
+# jemdoc: menu{MENU}{people.html}
+= Research Group
+
+== Postdoctoral Research Fellows
+
+~~~
+{}{img_left}{Leo_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Leonardo Novelli*
+
+*Current Position*: Research Fellow, Monash University, Nov. 2020 - to date \n
+*Education*:\n
+PhD (Complex Systems), University of Sydney, Australia, 2017-2020. Supervisor: [https://www.sydney.edu.au/engineering/about/our-people/academic-staff/joseph-lizier.html Joseph Lizier] \n
+MSc (Neural Systems and Computation), 2014-2016, ETH Zurich and University of Zurich, Switzerland\n
+BSc (Mathematics), 2010-2013, Università degli Studi Roma Tre, Rome, Italy \n
+*Keywords*: Network neuroscience; Information theory; Dynamic causal modelling\n
+[https://scholar.google.com/citations?user=Ci5AsaQAAAAJ Google Scholar] --- [https://www.researchgate.net/profile/Leonardo_Novelli2 Researchgate] 
+~~~
+
+~~~
+{}{img_left}{Devon_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Devon Stoliker*
+
+*Current Position*: Research Fellow, Monash University, April 2023 - to date \n
+*Education*:\n
+PhD (Psychology) at Monash University, 2019-2023. Supervisors: Adeel Razi and [https://www.monash.edu/researchinfrastructure/mbi/about-us/staff-profiles/prof.-gary-egan Gary Egan]\n
+BSc (Psychology) with Honours, University of Guelph, Canada\n
+*Keywords*: Psychedelics; Dynamic causal modelling; Consciousness\n
+[https://devonstoliker.wordpress.com/ Website] --- [https://scholar.google.com/citations?hl=en&user=oBUT0IEAAAAJ Google Scholar]
+~~~
+
+~~~
+{}{img_left}{Moein_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Moein Khajehnejad*
+
+*Current Position*: Research Fellow, Monash University, May 2023 - to date \n
+*Education*:\n
+PhD (Data Science and AI), Monash University, Australia, 2019-2023. Supervisors: [https://berndmeyer.net/ Bernd Meyer] and [https://www.garciajulian.com/ Julián García]\n
+BSc (Electrical Engineering \& Computer Sciences), 2011-2016, Sharif University of Technology, Tehran, Iran \n
+*Keywords*: Game theory; Reinforcement learning, Graph representational learning, Active inference\n
+[https://moein-khajehnejad.github.io/ Website] --- [https://scholar.google.com/citations?user=sNCC42QAAAAJ&hl=en&oi=ao Google Scholar] 
+~~~
+
+~~~
+{}{img_left}{Brett.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Brett Kagan*
+
+*Current Position*: Adjunct Research Fellow, Monash University, Nov. 2022 - to date \n
+Chief Scientific Officer at [https://corticallabs.com/ Cortical Labs] 2019-present.\n
+*Education*:\n
+PhD (Neuroscience), Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia, 2014-2018.  \n
+MSc (Neuroscience), Queensland Brain Institute, University of Queensland, 2013-2014.\n
+BSc (Psychology) with Honours, Bond University, 2009-2013. \n
+*Keywords*: Synthetic biological intelligence; Organoids; Stem cell engineering\n
+[https://corticallabs.com/ Website] --- [https://www.linkedin.com/in/brett-kagan-6ba996146/?originalSubdomain=au LinkedIn] 
+~~~
+
+== PhD Students
+
+~~~
+{}{img_left}{Aswin_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Aswin Paul*
+
+*Education*:\n
+PhD candidate ([https://www.ee.iitb.ac.in/web Electrical Engineering]) at [http://www.iitbmonash.org/ Indian Institute of Technology, Bombay - Monash Academy]\n
+MSc (Physics), National Institute of Technology (VNIT), Nagpur, India\n
+BSc (Physics), St. Stephen’s College (Delhi University), New Delhi, India\n
+*Supervisors*: Adeel Razi (Main) and [https://www.ee.iitb.ac.in/~manojg/ Manoj Gopalkrishnan] (Main) \n
+*Start date*: July 2019 – present \n
+*Keywords*: Biological self-organization; Variational inference; Free-energy principle\n 
+[https://github.com/aswinpaul GitHub] --- [https://scholar.google.com/citations?user=Omg4Gphl7T8C&hl=en&oi=sra Google Scholar]
+~~~
+
+~~~
+{}{img_left}{Mohsen.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Mohsen Ghofrani-Jahromi*
+
+*Education*:\n
+PhD candidate at Monash University \n
+MSc (Biomedical Engineering), Shiraz University of Medical Sciences, Iran\n
+BSc (Electrical Engineering, Shiraz University, Iran\n
+*Supervisors*: [https://research.monash.edu/en/persons/nellie-georgiou-karistianis Nellie Georgiou-Karistianis] (Main), Adeel Razi, and [https://www.acu.edu.au/research/our-research-institutes/mary-mackillop-institute-for-health-research/our-people/govinda-poudel  Govinda Poudel] \n
+*Start date*: June 2021 – present\n
+*Keywords*: Deep Learning; Huntington's Disease; Multimodal Neuroimaging
+~~~
+
+~~~
+{}{img_left}{Salma.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Salma Mansour*
+
+*Education*:\n
+PhD candidate at Monash University \n
+BSc (Psychological Sciences), University of Melbourne, Australia\n
+*Supervisors*: [https://research.monash.edu/en/persons/michelle-byrne Michelle Byrne] (Main), Adeel Razi, and [https://findanexpert.unimelb.edu.au/profile/24710-sarah-whittle  Sarah Whittle] \n
+*Start date*: July 2021 – present\n
+*Keywords*: Brain Connectivity; Inflammation; Neurodevelopment
+~~~
+
+~~~
+{}{img_left}{Tamrin.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Tamrin Barta*
+
+*Education*:\n
+PhD (Clinical Neuropsychology) candidate at Monash University \n
+MSc (Psychology), University of Melbourne, Australia\n
+BSc (Communication), Royal Melbourne Institute of Technology, Australia\n
+*Supervisors*: Adeel Razi (Main), [https://research.monash.edu/en/persons/yifat-glikmann-johnston  Yifat Glikmann-Johnston], and [https://research.monash.edu/en/persons/julie-stout  Julie Stout] \n
+*Start date*: Feb 2022 – present\n
+*Keywords*: Dynamic Causal Modelling; Huntington's Disease; Neurodegeneration
+~~~
+
+~~~
+{}{img_left}{MatthewG.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Matthew Greaves*
+
+*Education*:\n
+PhD candidate at Monash University \n
+BSc (Psychology) with Honours, University of Melbourne, Australia\n
+BFA, University of Melborune, Australia\n
+*Supervisors*: Adeel Razi (Main), and Leonardo Novelli \n
+*Start date*: Feb 2022 – present\n
+*Keywords*: Dynamic causal modelling, Structure-function relationships; Psychedelics
+~~~
+
+~~~
+{}{img_left}{Adam_M.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Adam Manoogian*
+
+*Education*:\n
+PhD candidate, Department of Philosophy at Monash University \n
+MSc (Neuroscience), University of Geneva, Switzerland\n
+BSc (Psychology), California State University Long Beach, USA\n
+*Supervisors*: [https://research.monash.edu/en/persons/jakob-hohwy Jakob Hohwy] (Main) and Adeel Razi \n
+*Start date*: May 2022 – present\n
+*Keywords*: Active inference, Dynamic causal modelling, Introspection.\n 
+~~~
+
+~~~
+{}{img_left}{Vidushani.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Vidushani Dhanwansa*
+
+*Education*:\n
+PhD candidate, Department of AI and Data Science at Monash University \n
+BE (Electrical \& Electronics Engineering), Curtin University, Australia\n
+*Supervisors*: [https://research.monash.edu/en/persons/levin-kuhlmann Levin Kuhlmann] (Main) and Adeel Razi\n
+*Start date*: July 2022 – present\n
+*Keywords*: Machine Learning, Consciousness, Anaesthesia
+~~~
+
+~~~
+{}{img_left}{Lars.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Lars Sandved-Smith*
+
+*Education*:\n
+PhD candidate, Department of Philosophy at Monash University \n
+MSc (Modelling for Neuronal and Cognitive Systems), Université Côte d’Azur, Nice, France\n
+MSc (Physics and Philosophy), University of Manchester and University of California, Berkeley, USA\n 
+BA (Bilingual English-French), Lycée International de Saint Germain-en-Laye, France\n
+*Supervisors*: [https://research.monash.edu/en/persons/jakob-hohwy Jakob Hohwy] (Main) and Adeel Razi \n
+*Start date*: October 2022 – present\n
+*Keywords*: Active inference, Meditation\n 
+~~~
+
+~~~
+{}{img_left}{SinYap.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Sin Yee Yap*
+
+*Education*:\n
+PhD candidate, School of IT, at Monash University \n
+BSc (Bioinformatics) with Honours, University of Technology Malaysia\n
+*Supervisors*: [https://www.monash.edu.my/it/staff/academic/dr-ting-chee-ming Ting Chee Ming] (Main), Adeel Razi, [https://research.monash.edu/en/persons/raphael-phan Rapahel Phan], and [https://research.monash.edu/en/persons/david-dowe David Dowe]\n
+*Start date*: October 2022 – present\n
+*Keywords*: Deep learning, Brain connectivity\n 
+~~~
+
+== Master's \& Visiting students
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Ethan Wills*
+
+*Education*:\n
+MSc (Artificial Intelligence) Candidate, Monash University, Melbourne, Asutralia \n 
+BSc (Mathematics) \&  BSc (Computer Science), Monash University, Melbourne, Australia\n
+*Keywords*: Deep active inference, World models\n 
+~~~
+
+~~~
+{}{img_left}{Jack_S.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Jack Schenkman*
+
+*Education*:\n
+BE (Electrical Engineering) Candidate, Princeton University, New Jersey, USA\n
+*Keywords*: Active inference, Biological neural networks\n 
+~~~
+
+== Research Officers and Assistants
+
+~~~
+{}{img_left}{Martin_W.jpeg}{alt text}{160}{180}{IMGLINKTARGET}
+*Martin Williams*
+
+*Current Position*: Senior Research Officer, Monash University, Jan 2022 - to date \n
+*Education*:\n
+PhD, Monash University, Australia, 2007-2012\n
+MSc, University of California Davis, USA\n
+BSc, University of Sydney, Australia \n
+*Keywords*: Psychedelics; Psychedelic-assisted-psychotherapy \n
+[https://scholar.google.com/citations?hl=en&user=6uU5QkwAAAAJ Google Scholar] --- [https://www.researchgate.net/profile/Martin-Williams-4 Researchgate] 
+~~~
+
+~~~
+{}{img_left}{James_J.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*James Jackson*
+
+*Education*:\n
+BSc (Psychology) with Honours, Monash University, Australia\n 
+~~
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Jessica Kwee*
+
+*Education*:\n
+BSc (Psychology) with Honours, Monash University, Australia\n 
+~~~
+
+
+== Honours Students
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Mahasen El Kantar*
+
+*Education*:\n
+BSc (Psychology) with Honours, Candidate, Monash University, Melbourne, Australia\n
+*Keywords*: Dynamic causal modelling, Young-onset dementia\n 
+~~~
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Alexis Kanat*
+
+*Education*:\n
+BSc (Psychology) with Honours, Candidate, Monash University, Melbourne, Australia\n
+*Keywords*: Dynamic causal modelling, Parkinson's disease\n 
+~~~
+
+== Alumni
+
+~~~
+{}{img_left}{Devon_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Devon Stoliker*
+
+*Current Role*: Research Fellow, Monash University, April 2023 - to date \n
+*Education*:\n
+PhD (Psychology) at Monash University, 2019-2023. Supervisor: Adeel Razi and and [https://www.monash.edu/researchinfrastructure/mbi/about-us/staff-profiles/prof.-gary-egan Gary Egan]\n
+Bachelor’s of Science (Honours), Psychology, University of Guelph, Canada\n
+*Keywords*: Psychedelics; Dynamic causal modelling; Consciousness\n
+*Last role*: PhD Student, 2019-2023 \n
+~~~
+
+~~~
+{}{img_left}{Lingbin_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Lingbin Bian*
+
+*Current Role *: Research Assistant Professor, ShanghaiTech University, Shanghai, China, 2022 - present\n
+*Education*:\n
+PhD at Monash University, Department of Mathematics, 2021, supervised by [https://research.monash.edu/en/persons/jonathan-keith Jonathan Keith] (Main), Adeel Razi, [https://research.monash.edu/en/persons/tiangang-cui Tiangang Cui]\n
+Master’s of Science, Signal Processing and Communications, The University of Edinburgh \n
+Bachelor of Engineering, Industrial Electronics and Control, Liverpool John Moores University (LJMU) - University of Shanghai for Science and Technology (USST)\n
+*Keywords*: Bayesian inference; Stochastic block models; Brain networks, Resting state functional MRI\n
+*Last role*: PhD Student, 2018-2021 \n
+~~~
+
+~~~
+{}{img_left}{Hoang.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Hoang Anh Mai*
+
+*Education*:\n
+Bachelors of Psychology, (Honours), Monash University, Melbourne, Australia\n
+*Keywords*: Dynamic causal modelling, Psychedelics\n 
+*Last role*: Honours Thesis Student, 2021
+~~~
+
+~~~
+{}{img_left}{Raisya.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Siti Raisya Audrea*
+
+*Education*:\n
+Bachelors of Psychology, (Honours), Monash University, Melbourne, Australia\n
+*Keywords*: Dynamic causal modelling, Young-onset Alzheimer’s disease\n 
+*Last role*: Honours Thesis Student, 2021
+~~~
+
+~~~
+{}{img_left}{Garance.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Garance Delagneau*
+
+*Education*:\n
+PhD candidate (Clinical Neuropsychology) at Monash University\n
+Master’s of Psychology, University of Melbourne, Australia\n
+Bachelor’s of Science, University of Montreal, Canada\n
+*Last role*: Research Assistant, 2020-2021\n
+~~~
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Sidhant Chopra*
+
+*Current Role*: Postdoctoral Fellow at Yale University, 2022 - present\n
+*Education*:\n
+PhD (Clinical Neuropsychology) at Monash University\n
+Bachelor’s of Science (Psychology), Australian National University\n
+*Last role*: Research Assistant, 2020-2021 
+~~~
+
+~~~
+{}{img_left}{Hannes_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Hannes Almgren*
+
+*Current Role*: Postdoctoral Fellow at University of Calgary, 2020 - present\n
+*Education*:\n
+PhD, Department of Data Analysis, Ghent University, 2020, supervised by Daniele Marinazzo and Adeel Razi\n
+Master’s of Science, Experimental and Theoretical Psychology, Ghent University, Belgium\n
+Bachelor’s of Science, Experimental and Theoretical Psychology, Ghent University, Belgium\n
+*Keywords*: Dynamic causal modelling; Resting state functional MRI; Ageing and functional compensation\n
+*Last Role*: PhD Student, 2016-2020 \n
+~~~
+
+~~~
+{}{img_left}{Hannah.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Hannah Cummins*
+
+*Education*:\n
+Bachelors of Psychology, (Honours), Candidate, Monash University, Melbourne, Australia\n
+*Keywords*: Dynamic causal modelling, Parkinson’s disease\n
+*Last role*: Honours Thesis Student, 2020 \n 
+~~~
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Sean Ng*
+
+*Education*:\n
+Bachelors of Psychology, (Honours), Monash University, Melbourne, Australia\n
+*Keywords*: Dynamic causal modelling, Alzheimer’s disease, Depression\n
+*Last role*: Honours Thesis Student, 2019 \n
+~~~
+
+~~~
+{}{img_left}{Anna_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Anna Carmichael*
+
+*Education*:\n
+PhD (Clinical Neuropsychology) at Monash University\n
+Master’s of Arts, Psychology, Brandies University, USA\n
+Bachelor’s of Science (Honours), Psychology, Texas A&M University, USA\n
+*Last role*: Research Assistant, 2019\n
+
+~~~
+
+~~~
+{}{img_left}{Seda_Color.jpg}{alt text}{160}{180}{IMGLINKTARGET}
+*Seda Sacu*
+
+*Education*:\n
+PhD Candidate, Univesity of Mannheim, Germany, 2021 - present\n
+Masters of Science (Brain and Mind), Humboldt University of Berlin, Germany\n
+Bachelor’s of Arts (Psychology), Hacettepe University, Turkey\n
+*Last role*: Master’s Thesis Student, 2019\n 
+~~~
+
+~~~
+{}{img_left}{NoPic.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Ensor Palacios*
+
+*Education*:\n
+PhD Candidate (funded by Wellcome Trust) at University of Bristol, U.K, 2018 - present \n
+Masters of Science (Psychology), Università degli Studi di Padova, Italy\n
+*Last role*: Master’s Thesis Student, 2018\n
+~~~
+
+~~~
+{}{img_left}{AndrewD.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Andrew Dixon*
+
+*Education*:\n
+PhD Candidate, University of Queensland, 2019 - present\n
+Bachelors of Aerospace Engineering (Honours) and Bachelor of Science, Monash University, Melbourne, Australia\n
+*Last role*: Summer Research Student, 2018/19\n 
+~~~
+
+~~~
+{}{img_left}{Didi.JPG}{alt text}{160}{180}{IMGLINKTARGET}
+*Didi Chi*
+
+*Education*:\n
+PhD Candidate, University of Melbourne, 2019 - present
+Masters of Engineering (Electrical), Bachelors of Science (Electrical Systems), University of Melbourne, Australia\n
+*Last role*: Summer Research Student, 2018/19\n 
+~~~
